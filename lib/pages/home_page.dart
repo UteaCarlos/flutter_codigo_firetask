@@ -77,6 +77,24 @@ class HomePage extends StatelessWidget {
                 "Actualizar Documento",
               ),
             ),
+            ElevatedButton(
+              onPressed: () {
+                tasksReference
+                    .doc(" CyHLFleY5tzH2W21JUjQ ")
+                    .delete()
+                    .catchError(
+                  (error) {
+                    print(error);
+                  },
+                ).whenComplete(
+                        () {
+                  print("La Eliminacion Esta Completada");
+                });
+              },
+              child: Text(
+                "Eliminar Documento",
+              ),
+            ),
           ],
         ),
       ),
