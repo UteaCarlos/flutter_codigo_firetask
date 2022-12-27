@@ -8,7 +8,7 @@ import 'package:tasks/pages/register_page.dart';
 import 'package:tasks/services/my_service_firestore.dart';
 import 'package:tasks/ui/general/colors.dart';
 import 'package:tasks/ui/widgets/button_custom_widget.dart';
-
+import 'package:tasks/ui/widgets/button_normal_widget.dart';
 import 'package:tasks/ui/widgets/general_widget.dart';
 import 'package:tasks/ui/widgets/textfield_normal_widget.dart';
 import 'package:tasks/ui/widgets/texfield_password_widget.dart';
