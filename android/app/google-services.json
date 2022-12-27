@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "861480769428",
-    "project_id": "codigo-task-22bb9",
-    "storage_bucket": "codigo-task-22bb9.appspot.com"
+    "project_number": "392740630346",
+    "project_id": "taks-6f0d6",
+    "storage_bucket": "taks-6f0d6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:861480769428:android:6d46841f01e9e6c0d92181",
+        "mobilesdk_app_id": "1:392740630346:android:087a6f49c59f77ef4e5bb3",
         "android_client_info": {
-          "package_name": "com.livcode.firetask"
+          "package_name": "com.livcode.tasks"
         }
       },
       "oauth_client": [
         {
-          "client_id": "861480769428-9uvjd9j7j1414hngogeh8bf0s2jd71nn.apps.googleusercontent.com",
+          "client_id": "392740630346-ra4n24df8hoqd7ps2vfn8gi4v1660rip.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDxrjiNQW88PNdDiw5B5b8ENuWx-O6HUqU"
+          "current_key": "AIzaSyCkbt8KBeppkIcCwo5laVS234x35FLEZH8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "861480769428-9uvjd9j7j1414hngogeh8bf0s2jd71nn.apps.googleusercontent.com",
+              "client_id": "392740630346-ra4n24df8hoqd7ps2vfn8gi4v1660rip.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

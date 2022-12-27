@@ -1,4 +1,4 @@
-# firetask
+# tasks
 
 A new Flutter project.
 
