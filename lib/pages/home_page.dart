@@ -9,6 +9,7 @@ import 'package:tasks/utils/task_search_delegate.dart';
 import '../models/task_model.dart';
 import '../ui/widgets/textfield_normal_widget.dart';
 
+
 class HomePage extends StatelessWidget {
   List<TaskModel> tasksGeneral = [];
 
