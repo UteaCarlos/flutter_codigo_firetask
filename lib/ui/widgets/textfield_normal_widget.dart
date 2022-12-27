@@ -7,7 +7,7 @@ class TextFieldNormalWidget extends StatelessWidget {
   Function? onTap;
   TextFieldNormalWidget controller;
 
-  TextFieldNormalWidget({
+  TextFieldNormalWidget(required String hintText, {
     required this.hintText,
     required this.icon,
     this.onTap,
